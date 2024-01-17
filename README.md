@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-
+ <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+this+is+Naveen%2CWelcome+to+my+Github+page." alt="Typing SVG" /></a> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navww&label=Profile%20views&color=0e75b6&style=flat" alt="navww" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
