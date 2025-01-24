@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, React.JS, NODE.JS, EXPRESS, MONGODB, C++, GIT, Bootstrap, Data Structure & Algorithm,**
 
-- 📫 How to reach me **7355003942n@gmail.com**
+- 📫 How to reach me **naveentripathi.career@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1433whRHc2KC77mUIJxqC8d_K1yxB0oK8/view?usp=sharing](https://drive.google.com/file/d/1433whRHc2KC77mUIJxqC8d_K1yxB0oK8/view?usp=sharing)
 
